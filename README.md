@@ -4,9 +4,8 @@ A new Flutter project.
 An app which gives random dice rolls on clicking the button.
 
 GUI:
-![image](https://github.com/user-attachments/assets/0328a7ca-94a0-4a95-b1ec-0c9e82e1575d)
 
-
+![image](https://github.com/user-attachments/assets/ca626c4f-4867-4216-9c04-c27486bd6bcb)
 
 ## Getting Started
 
